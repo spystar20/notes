@@ -28,7 +28,7 @@ btn.addEventListener("click", () => {
 
   divBox.querySelector(".img").addEventListener("click", () => {
     divBox.remove();
-    save();
+    
   });
 
   divBox.addEventListener("keyup", () => {
